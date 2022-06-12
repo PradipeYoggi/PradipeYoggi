@@ -14,4 +14,4 @@
 
 - I like economics, wholistic health sciences, wholistic nutrition and being environmentally wise.
 
-- I am a long time Scientologist and it has helped me greatly better myself and what I can do as a professional and for others around me.
+- I am a long time Scientologist and my study and use of the subject has helped me greatly better myself and what I can do as a professional, a leader and what I can for others around me to better the state of play.
