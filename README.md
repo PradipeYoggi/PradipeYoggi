@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a SaaS Business suite that helps businesses manage their marketing and online presence covering Social media management, SEO, advertising, online reputation, directory listings and email marketing. I manage a group of amazing engineers, leads and managers. I love collaborating with them to create great solutions on an ongoing basis and I am quite proud of what we have built together.
+- 🔭 I’m currently working as a VP of Engineering on a SaaS Business suite that helps businesses manage their marketing and online presence covering Social media management, SEO, advertising, online reputation, directory listings and email marketing. I manage a group of amazing engineers, leads and managers. I love collaborating with them to create great solutions on an ongoing basis and I am quite proud of what we have built together.
 
 - 🌱 I’m currently learning Front End development, specifically ES6, Html/CSS, Bootstrap and ReactJs. My forte has been backend technologies for supporting high scale, high availability systems.
 
