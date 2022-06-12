@@ -8,4 +8,10 @@
 
 - 📫 How to reach me: Email. See my profile for it. Or reach me via LinkedIn.
 
-- ⚡ Fun fact: I came to this country, United States of America, with $200 in my pocket and a job to hand that I landed. In my last gig as VP of Software Development at Stamps.com (currently known as Auctane), I grew up the ranks and managed the engineering as the company 4X its revenue during my presence there.
+- ⚡ Fun fact: I came to this country, United States of America, with $200 in my pocket and a job to hand that I landed through my own efforts before I came here. 
+
+In my last gig as VP of Software Development at Stamps.com (currently known as Auctane), I grew up the ranks and managed the engineering as the company 4X its revenue during my presence there.
+
+I like economics, wholistic health sciences, wholistic nutrition and being environmentally wise.
+
+I am a long time Scientologist and it has helped me greatly better myself and what I can do as a professional and for others around me.
