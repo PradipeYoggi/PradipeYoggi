@@ -13,5 +13,3 @@
 - In my last gig as VP of Software Development at Stamps.com (currently known as Auctane), I grew up the ranks and managed the engineering as the company 4X its revenue during my presence there.
 
 - I like economics, wholistic health sciences, wholistic nutrition and being environmentally wise.
-
-- I am a long time Scientologist and my study and use of the subject has helped me greatly better myself and what I can do as a professional, a leader and what I can for others around me to better the state of play.
