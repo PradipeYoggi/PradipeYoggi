@@ -10,6 +10,6 @@
 
 - ⚡ Fun fact: I came to this country, United States of America, with $200 in my pocket and a job to hand that I landed through my own efforts before I came here. 
 
-- In my last gig as VP of Software Development at Stamps.com (currently known as Auctane), I grew up the ranks and managed the engineering as the company 4X its revenue during my presence there.
+- In my last gig as VP of Software Development at Stamps.com (currently known as Auctane), I grew up the ranks and managed the engineering as the company 4X its revenue during my presence there. All that accomplished with about 68 staff across dev, qa and program management.
 
-- I like economics, wholistic health sciences, wholistic nutrition and being environmentally wise.
+- I like economics, holistic health sciences, holistic nutrition and being environmentally wise.
